@@ -1,0 +1,9 @@
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\bin\Debug\netstandard2.0\EmployeeDataAceess.deps.json
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\bin\Debug\netstandard2.0\EmployeeDataAceess.dll
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\obj\Debug\netstandard2.0\EmployeeDataAceess.csprojAssemblyReference.cache
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\obj\Debug\netstandard2.0\EmployeeDataAceess.AssemblyInfoInputs.cache
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\obj\Debug\netstandard2.0\EmployeeDataAceess.AssemblyInfo.cs
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\bin\Debug\netstandard2.0\EmployeeDataAceess.pdb
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\obj\Debug\netstandard2.0\EmployeeDataAceess.csproj.CoreCompileInputs.cache
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\obj\Debug\netstandard2.0\EmployeeDataAceess.dll
+C:\Users\inaza\source\repos\WebApiApplication\EmployeeDataAceess\obj\Debug\netstandard2.0\EmployeeDataAceess.pdb

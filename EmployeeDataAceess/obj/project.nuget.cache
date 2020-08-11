@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoV8RkSiSAcxNZ63aTIWPxvGyC8VI+8s/3k9Vts7sq5pn2LWBxFzB9VYaeMPbkS6nAboZd21xXdD/eOb9fOWiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inaza\\source\\repos\\WebApiApplication\\EmployeeDataAceess\\EmployeeDataAceess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inaza\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\inaza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\inaza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
