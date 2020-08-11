@@ -51,6 +51,9 @@ C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\roslyn\vbc.r
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\roslyn\VBCSCompiler.exe
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\Antlr3.Runtime.dll
+C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\EmployeesDataAccess.dll
+C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\EntityFramework.dll
+C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\EntityFramework.SqlServer.dll
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\Newtonsoft.Json.dll
@@ -65,6 +68,10 @@ C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\System.Web.W
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\System.Web.WebPages.dll
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\System.Web.WebPages.Razor.dll
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\WebGrease.dll
+C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\EmployeesDataAccess.pdb
+C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\EmployeesDataAccess.dll.config
+C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\EntityFramework.xml
+C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\EntityFramework.SqlServer.xml
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\Newtonsoft.Json.xml
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\System.Net.Http.Formatting.xml
 C:\Users\inaza\source\repos\WebApiApplication\WebApiApplication\bin\System.Web.Helpers.xml

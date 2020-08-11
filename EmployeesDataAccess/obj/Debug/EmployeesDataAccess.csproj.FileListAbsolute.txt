@@ -5,7 +5,6 @@ C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\bin\Debug\Enti
 C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\bin\Debug\EntityFramework.xml
 C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\obj\Debug\EmployeesDataAccess.csprojAssemblyReference.cache
 C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\obj\Debug\EmployeesDataAccess.csproj.CoreCompileInputs.cache
 C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\obj\Debug\EmployeesDataAccess.csproj.CopyComplete
 C:\Users\inaza\source\repos\WebApiApplication\EmployeesDataAccess\obj\Debug\EmployeesDataAccess.dll
